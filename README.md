@@ -23,6 +23,7 @@ The website provides a search feature that allows users to find specific product
 
 ![Front Page](https://github.com/SoumyaMishra07/An-Ecommerce-Website-Amazon-Clone/assets/118365110/b724d258-f266-4d9b-a374-c2d3df71ce4e)
 
-![SignIn](https://github.com/SoumyaMishra07/An-Ecommerce-Website-Amazon-Clone/assets/118365110/7ed9ad48-0a0f-4076-b717-e04ddb0933e3)
+![SignIn (2)](https://github.com/SoumyaMishra07/An-Ecommerce-Website-Amazon-Clone/assets/118365110/35128c12-3602-4e5c-9ae1-ff44a6a50c3a)
+
 
 ![Product List](https://github.com/SoumyaMishra07/An-Ecommerce-Website-Amazon-Clone/assets/118365110/5e500dc4-1968-4b63-b473-65dd5e947a07)
